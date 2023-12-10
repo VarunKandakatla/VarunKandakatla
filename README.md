@@ -4,9 +4,9 @@
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">
 
-- 🌱 I’m currently learning **Frontend**
+- 🌱 I’m currently learning **JavaScript**
 
-- 📫 How to reach me **varunkumarkandakatla@gmail.com**
+- 📫 Reach me at **varunkumarkandakatla@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
